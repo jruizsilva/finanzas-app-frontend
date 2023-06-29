@@ -18,6 +18,6 @@
 
 ## _Contact_
 
-- Website [jruizsilva.netlify.app](https://portfolio-jruizsilva.vercel.app)
+- Website [https://portfolio-jruizsilva.vercel.app](https://portfolio-jruizsilva.vercel.app)
 - GitHub [@jruizsilva](https://github.com/jruizsilva)
 - Linkedin [@jruizsilva](https://www.linkedin.com/in/jruizsilva/)
